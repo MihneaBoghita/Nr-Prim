@@ -1,0 +1,10 @@
+D:\Scoala\Teme c#\NrPrim\obj\Debug\NrPrim.csproj.AssemblyReference.cache
+D:\Scoala\Teme c#\NrPrim\obj\Debug\NrPrim.Form1.resources
+D:\Scoala\Teme c#\NrPrim\obj\Debug\NrPrim.Properties.Resources.resources
+D:\Scoala\Teme c#\NrPrim\obj\Debug\NrPrim.csproj.GenerateResource.cache
+D:\Scoala\Teme c#\NrPrim\obj\Debug\NrPrim.csproj.CoreCompileInputs.cache
+D:\Scoala\Teme c#\NrPrim\bin\Debug\NrPrim.exe.config
+D:\Scoala\Teme c#\NrPrim\bin\Debug\NrPrim.exe
+D:\Scoala\Teme c#\NrPrim\bin\Debug\NrPrim.pdb
+D:\Scoala\Teme c#\NrPrim\obj\Debug\NrPrim.exe
+D:\Scoala\Teme c#\NrPrim\obj\Debug\NrPrim.pdb
